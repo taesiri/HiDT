@@ -7,6 +7,15 @@
 Official PyTorch implementation (only inference part) for the paper I. Anokhin, P. Solovev, D. Korzhenkov, A. Kharlamov, T. Khakhulin, A. Silvestrov, S. Nikolenko, V. Lempitsky, and G. Sterkin. "High-Resolution Daytime Translation Without Domain Labels." In 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
 ![teaser image](./docs/img/1_intro_grid.jpg)
 
+## Sample Results
+
+![teaser image](./images/unsplash/Results/nightmore/1.png)
+
+---
+
+![teaser image](./images/unsplash/results/sunset_hard_harder/1.png)
+
+
 ## Installation
 Make sure that you use python >= 3.7. We have tested it with conda package manager. If you are new to conda, proceed to https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 
