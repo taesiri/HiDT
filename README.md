@@ -13,7 +13,7 @@ Official PyTorch implementation (only inference part) for the paper I. Anokhin, 
 
 ---
 
-![teaser image](./images/unsplash/results/sunset_hard_harder/1.png)
+![teaser image](./images/unsplash/Results/sunset_hard_harder/2.png)
 
 
 ## Installation
