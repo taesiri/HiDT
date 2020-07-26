@@ -2,7 +2,7 @@
 
 ### [Project Page](https://saic-mdal.github.io/HiDT/) | [Video Explanation](https://youtu.be/DALQYKt-GJc) | [Paper](https://arxiv.org/abs/2003.08791) | [Appendix](https://saic-mdal.github.io/HiDT/paper/High-Resolution_Daytime_Translation_Without_Domain_Labels.pdf) | [TwoMinutePapers](https://www.youtube.com/watch?v=EWKAgwgqXB4)
 
-[![Open HiDT in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saic-mdal/hidt/blob/master/notebooks/HighResolutionDaytimeTranslation.ipynb)
+[![Open HiDT in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taesiri/hidt/blob/master/notebooks/HighResolutionDaytimeTranslation.ipynb)
 
 Official PyTorch implementation (only inference part) for the paper I. Anokhin, P. Solovev, D. Korzhenkov, A. Kharlamov, T. Khakhulin, A. Silvestrov, S. Nikolenko, V. Lempitsky, and G. Sterkin. "High-Resolution Daytime Translation Without Domain Labels." In 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
 ![teaser image](./docs/img/1_intro_grid.jpg)
